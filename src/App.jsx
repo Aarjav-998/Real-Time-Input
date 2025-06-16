@@ -5,6 +5,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-slate-950 p-6 font-sans">
+      <h1  className="block text-lg font-bold text-white mb-2 items-center" >Real time Input Displayer</h1>
       <div className="max-w-xl mx-auto">
         <label htmlFor="input" className="block text-lg font-bold text-white mb-2">
           Type something:
